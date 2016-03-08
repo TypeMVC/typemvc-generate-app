@@ -13,7 +13,7 @@
     "grunt-ts": "~1.11.2",
     "grunt-file-append": "0.0.4",
     "load-grunt-tasks": "~0.2.0",
-    "typemvc-framework": "~0.2.1",
+    "typemvc-framework": "~0.2.2",
     "sails-disk": "^0.9.3"
   }
 }
