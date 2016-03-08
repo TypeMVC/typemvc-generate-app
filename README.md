@@ -1,3 +1,3 @@
 # Overview
 
-A project template for [TypeFramework](http://typeframework.com)
+A project template for [TypeMVC](http://typemvc.github.io)

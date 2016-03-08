@@ -1,19 +1,20 @@
 {
-  "name": "typeframework-generate-app",
-  "description": "Typeframework webapp project template",
+  "name": "typemvc-generate-app",
+  "description": "TypeMVC webapp project template",
   "version": "0.2.1",
-  "author": "Zeke Kievel <zeke.levu@gmail.com>",
+  "author": "Jhon Mike <developer@jhonmike.com.br",
   "license": "MIT",
   "keywords": [
+    "typemvc",
     "typeframework",
     "scaffolding",
     "template"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/zekelevu/typeframework-generate-app.git"
+    "url": "git://github.com/TypeMVC/typemvc-generate-app.git"
   },
   "bugs": {
-    "url": "https://github.com/zekelevu/typeframework-generate-app/issues"
+    "url": "https://github.com/TypeMVC/typemvc-generate-app/issues"
   }
 }

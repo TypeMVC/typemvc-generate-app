@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "description": "A Typeframework MVC Application",
+  "description": "A TypeMVC Framework Web Application",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
     "grunt-ts": "~1.11.2",
     "grunt-file-append": "0.0.4",
     "load-grunt-tasks": "~0.2.0",
-    "typeframework": "~0.2.0",
+    "typemvc-framework": "~0.2.1",
     "sails-disk": "^0.9.3"
   }
 }
