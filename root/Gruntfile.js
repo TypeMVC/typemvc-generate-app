@@ -23,7 +23,7 @@ module.exports = function (grunt) {
             app: {
                 files: {
                     '.build/app.js': {
-                        prepend: "var TF = require('typemvc-framework');\n\n"
+                        prepend: "var TS = require('ts-framework');\n\n"
                     }
                 }
             }

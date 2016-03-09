@@ -1,5 +1,5 @@
 /// <EXTERNAL REFERENCES>
-/// <reference path="node_modules/ts-framework/build/TSFramework.d.ts" />
+/// <reference path="./node_modules/ts-framework/build/TSFramework.d.ts" />
 
 /// <HELPER REFERENCES>
 /// <reference path="app/Global.ts" />

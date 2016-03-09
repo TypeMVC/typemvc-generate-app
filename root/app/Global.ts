@@ -1,6 +1,6 @@
 /// <reference path="../app.ts" />
 
-var path = <NodeJS.Path> require('path');
+var path = require('path');
 var app = new TS.Application(path.join(__dirname, '..'));
 
 app.configure(() => {
