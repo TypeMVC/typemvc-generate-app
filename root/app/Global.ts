@@ -1,7 +1,7 @@
 /// <reference path="../app.ts" />
 
 var path = <NodeJS.Path> require('path');
-var app = new TF.Application(path.join(__dirname, '..'));
+var app = new TS.Application(path.join(__dirname, '..'));
 
 app.configure(() => {
     // add declaration file
