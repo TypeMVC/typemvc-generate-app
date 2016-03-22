@@ -18,17 +18,8 @@ module.exports = function (grunt) {
                     htmlVarTemplate: '<%= ext %>'
                 }
             }
-        },
-        file_append: {
-            app: {
-                files: {
-                    '.build/app.js': {
-                        prepend: "var TS = require('ts-framework');\n\n"
-                    }
-                }
-            }
         }
     });
 
-    grunt.registerTask('default', [ 'ts:build', 'file_append:app' ]);
+    grunt.registerTask('default', [ 'ts:build' ]);
 };
