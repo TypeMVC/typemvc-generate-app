@@ -1,7 +1,7 @@
 {
   "name": "ts-generate-app",
   "description": "TSFramework webapp project template",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": "Jhon Mike <developer@jhonmike.com.br",
   "license": "MIT",
   "keywords": [
