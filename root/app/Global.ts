@@ -1,5 +1,5 @@
 /// <reference path="../app.ts" />
-
+var TS = require('ts-framework');
 var path = require('path');
 var app = new TS.Application(path.join(__dirname, '..'));
 
