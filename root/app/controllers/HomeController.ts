@@ -1,9 +1,11 @@
-/// <reference path="../../app.ts" />
+import {Controller} from "ts-framework/build/Controller";
 
-class HomeController extends TS.Controller {
-
-    index() {
-        this.view('index', { layout: 'layout' });
+export class HomeController extends Controller
+{
+    index()
+    {
+        // this.view('index', { layout: 'layout' });
+        this.content("Hello World");
     }
 
 }

@@ -13,7 +13,7 @@
     "grunt-ts": "~5.3.2",
     "grunt-file-append": "0.0.6",
     "load-grunt-tasks": "~3.4.1",
-    "ts-framework": "~0.2.5",
+    "ts-framework": "~0.2.6",
     "sails-disk": "^0.10.9"
   }
 }
